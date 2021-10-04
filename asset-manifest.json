@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fernandors28/markdown-/static/css/main.350b8776.chunk.css",
+    "main.js": "/fernandors28/markdown-/static/js/main.c09d0b33.chunk.js",
+    "main.js.map": "/fernandors28/markdown-/static/js/main.c09d0b33.chunk.js.map",
+    "runtime-main.js": "/fernandors28/markdown-/static/js/runtime-main.6475f70e.js",
+    "runtime-main.js.map": "/fernandors28/markdown-/static/js/runtime-main.6475f70e.js.map",
+    "static/css/2.0d8cb1d1.chunk.css": "/fernandors28/markdown-/static/css/2.0d8cb1d1.chunk.css",
+    "static/js/2.ea55a589.chunk.js": "/fernandors28/markdown-/static/js/2.ea55a589.chunk.js",
+    "static/js/2.ea55a589.chunk.js.map": "/fernandors28/markdown-/static/js/2.ea55a589.chunk.js.map",
+    "static/js/3.daffd989.chunk.js": "/fernandors28/markdown-/static/js/3.daffd989.chunk.js",
+    "static/js/3.daffd989.chunk.js.map": "/fernandors28/markdown-/static/js/3.daffd989.chunk.js.map",
+    "index.html": "/fernandors28/markdown-/index.html",
+    "static/css/2.0d8cb1d1.chunk.css.map": "/fernandors28/markdown-/static/css/2.0d8cb1d1.chunk.css.map",
+    "static/css/main.350b8776.chunk.css.map": "/fernandors28/markdown-/static/css/main.350b8776.chunk.css.map",
+    "static/js/2.ea55a589.chunk.js.LICENSE.txt": "/fernandors28/markdown-/static/js/2.ea55a589.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6475f70e.js",
+    "static/css/2.0d8cb1d1.chunk.css",
+    "static/js/2.ea55a589.chunk.js",
+    "static/css/main.350b8776.chunk.css",
+    "static/js/main.c09d0b33.chunk.js"
+  ]
+}
